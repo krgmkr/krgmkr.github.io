@@ -1,0 +1,9 @@
+title: くらげはもうまくら
+author: krgmkr
+theme: no-style-please
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+dark_mode: auto   # 自動でライト／ダーク切替
