@@ -1,7 +1,13 @@
 title: くらげはもうまくら
 author: krgmkr
 remote_theme: riggraz/no-style-please
-
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  parse_block_html: true
+  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
