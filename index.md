@@ -4,9 +4,9 @@ title: くらげはもうまくら
 ---
 
 # くらげはもうまくら
-
+<div align="center">
 <img src="/assets/images/krgmkr.png" >
-
+</div>
 こんにちは、くらげはもうまくらです。  
 
 
@@ -23,7 +23,7 @@ title: くらげはもうまくら
 ---
 
 ## 🎧 音源試聴
-<div style="text-align:center;">
+<div align="center">
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/iMKMh75L3BY?si=0xEn-sZ2KAjJNBcJ"
   title="YouTube video player"
