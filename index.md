@@ -1,6 +1,6 @@
 ---
-layout: page
-title: ホーム
+layout: home
+title: くらげはもうまくら
 ---
 
 # くらげはもうまくら
