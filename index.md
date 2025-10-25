@@ -25,7 +25,7 @@ title: ホーム
 ## 🎧 音源試聴
 <div style="text-align:center;">
   <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/iMKMh75L3BY"
+  src="https://www.youtube.com/embed/iMKMh75L3BY?si=0xEn-sZ2KAjJNBcJ"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
