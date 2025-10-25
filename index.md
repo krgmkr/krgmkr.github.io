@@ -2,7 +2,23 @@
 layout: home
 
 ---
-
+<style>
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9の比率 */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 0 auto; /* 中央寄せ */
+}
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 # くらげはもうまくら
 <div align="center">
 <img src="/assets/images/krgmkr.png" >
@@ -23,24 +39,8 @@ layout: home
 ---
 
 ## 🎧 音源試聴
-<style>
-.video-wrapper {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.video-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
 <div align="center">
-  <iframe width="560" height="315"
+  <iframe
   src="https://www.youtube.com/embed/iMKMh75L3BY?si=0xEn-sZ2KAjJNBcJ"
   title="YouTube video player"
   frameborder="0"
