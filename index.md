@@ -23,10 +23,14 @@ title: ホーム
 ---
 
 ## 🎧 音源試聴
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iMKMh75L3BY" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<div style="text-align:center;">
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/iMKMh75L3BY"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
 
 ---
 
