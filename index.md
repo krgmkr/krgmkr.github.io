@@ -3,7 +3,6 @@ layout: home
 
 ---
 
-# くらげはもうまくら
 <style>
 .video-wrapper {
   position: relative;
@@ -30,16 +29,18 @@ layout: home
 ---
 
 ##  ライブ日程
-- **2025/11/16 (日)** 鴨宮カボス — ライヴイズム24
+- **2025/11/16 (日)** 鴨宮KA☆BOSS — ライヴイズム24
+  -OPEN 17:00/START 17:30
+  -くらげはもうまくら 17:30~
+---
+
+##  CD即売会 参加予定
+- **2025/10/26 (日)** M3-2025秋　ク-27x
+　- アイカツカバー1
 
 ---
 
-## 💿 CD即売会 参加予定
-- **2025/10/26 (日)** M3（東京流通センター）  
-
----
-
-## 🎧 音源試聴
+##  音源試聴
 <div align="center">
   <iframe
   src="https://www.youtube.com/embed/iMKMh75L3BY?si=0xEn-sZ2KAjJNBcJ"
