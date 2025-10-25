@@ -2,6 +2,8 @@
 layout: home
 
 ---
+
+# くらげはもうまくら
 <style>
 .video-wrapper {
   position: relative;
@@ -19,7 +21,6 @@ layout: home
   height: 100%;
 }
 </style>
-# くらげはもうまくら
 <div align="center">
 <img src="/assets/images/krgmkr.png" >
 </div>
