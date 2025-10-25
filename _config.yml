@@ -1,8 +1,13 @@
 title: くらげはもうまくら
 author: krgmkr
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 dark_mode: auto   # 自動でライト／ダーク切替
+
+
+
