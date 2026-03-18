@@ -37,7 +37,7 @@ layout: home
 ##  CD即売会 参加予定
 - **2025/10/26 (日)** M3-2025秋
   - スペース：ク-27x
-    - アイカツカバー1
+    - [アイカツカバー1](https://krgmkr.booth.pm/items/8061098)
 
 ##  音源試聴
 <div align="center">
