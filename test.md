@@ -14,11 +14,18 @@ layout: default
       - OPEN 17:00/START 17:30
       - くらげはもうまくら 17:30~
 
-##  CD即売会 参加予定
+##  CD即売会
 - **2025/10/26 (日)** M3-2025秋
   - スペース：ク-27x
     - [アイカツカバー1](https://krgmkr.booth.pm/items/8061098)
+        1. Angel Snow
+            作曲：田中秀和　作詞：こだまさおり
+        2. SHINING LINE*
+            作曲：石濱翔　作詞：こだまさおり
+        3. Wake up my music
+            作曲：岡部啓一　作詞：こだまさおり 
 
+ 
 ##  音源試聴
 <div class="center-content">
   <div class="video-wrapper">
@@ -32,4 +39,6 @@ layout: default
 </div>
 
 ## くらげはもうまくら
-歌・アコギ・ドラム生演奏
+  歌・アコギ・ドラム生演奏
+   - [YouTube](https://www.youtube.com/@krgmkr)
+   - [BOOTH](https://krgmkr.booth.pm/items/8061098)

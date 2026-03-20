@@ -47,3 +47,7 @@ a:hover {
   text-align: center;
   margin-bottom: 20px;
 }
+
+ol {
+  list-style-type: decimal;
+}
