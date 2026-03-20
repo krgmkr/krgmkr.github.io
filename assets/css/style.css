@@ -1,0 +1,26 @@
+/* サイト全体の基本設定 */
+body {
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  line-height: 1.8;
+  color: #333333;
+  background-color: #fdfdfd;
+  max-width: 800px; /* サイトの最大幅を制限して読みやすくする */
+  margin: 0 auto;   /* 画面の中央に配置する */
+  padding: 40px 20px;
+}
+
+/* 見出しのデザイン */
+h2 {
+  border-bottom: 2px solid #eeeeee;
+  padding-bottom: 8px;
+  margin-top: 40px;
+}
+
+/* リンクの色 */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
